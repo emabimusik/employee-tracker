@@ -1,0 +1,16 @@
+C:\Users\emabi\source\repos\EmployeesTrackerEFCore\EmployeesTrackerEF\bin\Release\netcoreapp2.0\EmployeesTrackerEF.deps.json
+C:\Users\emabi\source\repos\EmployeesTrackerEFCore\EmployeesTrackerEF\bin\Release\netcoreapp2.0\EmployeesTrackerEF.runtimeconfig.json
+C:\Users\emabi\source\repos\EmployeesTrackerEFCore\EmployeesTrackerEF\bin\Release\netcoreapp2.0\EmployeesTrackerEF.runtimeconfig.dev.json
+C:\Users\emabi\source\repos\EmployeesTrackerEFCore\EmployeesTrackerEF\bin\Release\netcoreapp2.0\EmployeesTrackerEF.dll
+C:\Users\emabi\source\repos\EmployeesTrackerEFCore\EmployeesTrackerEF\bin\Release\netcoreapp2.0\EmployeesTrackerEF.pdb
+C:\Users\emabi\source\repos\EmployeesTrackerEFCore\EmployeesTrackerEF\bin\Release\netcoreapp2.0\EmployeeTrackerData.dll
+C:\Users\emabi\source\repos\EmployeesTrackerEFCore\EmployeesTrackerEF\bin\Release\netcoreapp2.0\EmployeeTrackerService.dll
+C:\Users\emabi\source\repos\EmployeesTrackerEFCore\EmployeesTrackerEF\bin\Release\netcoreapp2.0\EmployeeTrackerData.pdb
+C:\Users\emabi\source\repos\EmployeesTrackerEFCore\EmployeesTrackerEF\bin\Release\netcoreapp2.0\EmployeeTrackerService.pdb
+C:\Users\emabi\source\repos\EmployeesTrackerEFCore\EmployeesTrackerEF\obj\Release\netcoreapp2.0\EmployeesTrackerEF.csprojAssemblyReference.cache
+C:\Users\emabi\source\repos\EmployeesTrackerEFCore\EmployeesTrackerEF\obj\Release\netcoreapp2.0\EmployeesTrackerEF.csproj.CoreCompileInputs.cache
+C:\Users\emabi\source\repos\EmployeesTrackerEFCore\EmployeesTrackerEF\obj\Release\netcoreapp2.0\EmployeesTrackerEF.AssemblyInfoInputs.cache
+C:\Users\emabi\source\repos\EmployeesTrackerEFCore\EmployeesTrackerEF\obj\Release\netcoreapp2.0\EmployeesTrackerEF.AssemblyInfo.cs
+C:\Users\emabi\source\repos\EmployeesTrackerEFCore\EmployeesTrackerEF\obj\Release\netcoreapp2.0\EmployeesTrackerEF.csproj.CopyComplete
+C:\Users\emabi\source\repos\EmployeesTrackerEFCore\EmployeesTrackerEF\obj\Release\netcoreapp2.0\EmployeesTrackerEF.dll
+C:\Users\emabi\source\repos\EmployeesTrackerEFCore\EmployeesTrackerEF\obj\Release\netcoreapp2.0\EmployeesTrackerEF.pdb

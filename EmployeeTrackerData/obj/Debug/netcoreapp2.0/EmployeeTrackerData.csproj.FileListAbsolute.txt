@@ -1,0 +1,11 @@
+c:\users\emabi\source\repos\EmployeesTrackerEFCore\EmployeeTrackerData\bin\Debug\netcoreapp2.0\EmployeeTrackerData.deps.json
+c:\users\emabi\source\repos\EmployeesTrackerEFCore\EmployeeTrackerData\bin\Debug\netcoreapp2.0\EmployeeTrackerData.dll
+c:\users\emabi\source\repos\EmployeesTrackerEFCore\EmployeeTrackerData\obj\Debug\netcoreapp2.0\EmployeeTrackerData.csprojAssemblyReference.cache
+c:\users\emabi\source\repos\EmployeesTrackerEFCore\EmployeeTrackerData\obj\Debug\netcoreapp2.0\EmployeeTrackerData.csproj.CoreCompileInputs.cache
+c:\users\emabi\source\repos\EmployeesTrackerEFCore\EmployeeTrackerData\obj\Debug\netcoreapp2.0\EmployeeTrackerData.AssemblyInfoInputs.cache
+c:\users\emabi\source\repos\EmployeesTrackerEFCore\EmployeeTrackerData\obj\Debug\netcoreapp2.0\EmployeeTrackerData.AssemblyInfo.cs
+c:\users\emabi\source\repos\EmployeesTrackerEFCore\EmployeeTrackerData\bin\Debug\netcoreapp2.0\EmployeeTrackerData.runtimeconfig.json
+c:\users\emabi\source\repos\EmployeesTrackerEFCore\EmployeeTrackerData\bin\Debug\netcoreapp2.0\EmployeeTrackerData.runtimeconfig.dev.json
+c:\users\emabi\source\repos\EmployeesTrackerEFCore\EmployeeTrackerData\bin\Debug\netcoreapp2.0\EmployeeTrackerData.pdb
+c:\users\emabi\source\repos\EmployeesTrackerEFCore\EmployeeTrackerData\obj\Debug\netcoreapp2.0\EmployeeTrackerData.dll
+c:\users\emabi\source\repos\EmployeesTrackerEFCore\EmployeeTrackerData\obj\Debug\netcoreapp2.0\EmployeeTrackerData.pdb

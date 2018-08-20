@@ -1,0 +1,16 @@
+c:\users\emabi\source\repos\EmployeesTrackerEFCore\EmployeesTrackerEF\bin\Debug\netcoreapp2.0\EmployeesTrackerEF.deps.json
+c:\users\emabi\source\repos\EmployeesTrackerEFCore\EmployeesTrackerEF\bin\Debug\netcoreapp2.0\EmployeesTrackerEF.runtimeconfig.json
+c:\users\emabi\source\repos\EmployeesTrackerEFCore\EmployeesTrackerEF\bin\Debug\netcoreapp2.0\EmployeesTrackerEF.runtimeconfig.dev.json
+c:\users\emabi\source\repos\EmployeesTrackerEFCore\EmployeesTrackerEF\bin\Debug\netcoreapp2.0\EmployeesTrackerEF.dll
+c:\users\emabi\source\repos\EmployeesTrackerEFCore\EmployeesTrackerEF\obj\Debug\netcoreapp2.0\EmployeesTrackerEF.csprojAssemblyReference.cache
+c:\users\emabi\source\repos\EmployeesTrackerEFCore\EmployeesTrackerEF\obj\Debug\netcoreapp2.0\EmployeesTrackerEF.csproj.CoreCompileInputs.cache
+c:\users\emabi\source\repos\EmployeesTrackerEFCore\EmployeesTrackerEF\obj\Debug\netcoreapp2.0\EmployeesTrackerEF.AssemblyInfoInputs.cache
+c:\users\emabi\source\repos\EmployeesTrackerEFCore\EmployeesTrackerEF\obj\Debug\netcoreapp2.0\EmployeesTrackerEF.AssemblyInfo.cs
+c:\users\emabi\source\repos\EmployeesTrackerEFCore\EmployeesTrackerEF\bin\Debug\netcoreapp2.0\EmployeesTrackerEF.pdb
+c:\users\emabi\source\repos\EmployeesTrackerEFCore\EmployeesTrackerEF\obj\Debug\netcoreapp2.0\EmployeesTrackerEF.dll
+c:\users\emabi\source\repos\EmployeesTrackerEFCore\EmployeesTrackerEF\obj\Debug\netcoreapp2.0\EmployeesTrackerEF.pdb
+c:\users\emabi\source\repos\EmployeesTrackerEFCore\EmployeesTrackerEF\bin\Debug\netcoreapp2.0\EmployeeTrackerData.dll
+c:\users\emabi\source\repos\EmployeesTrackerEFCore\EmployeesTrackerEF\bin\Debug\netcoreapp2.0\EmployeeTrackerData.pdb
+c:\users\emabi\source\repos\EmployeesTrackerEFCore\EmployeesTrackerEF\obj\Debug\netcoreapp2.0\EmployeesTrackerEF.csproj.CopyComplete
+c:\users\emabi\source\repos\EmployeesTrackerEFCore\EmployeesTrackerEF\bin\Debug\netcoreapp2.0\EmployeeTrackerService.dll
+c:\users\emabi\source\repos\EmployeesTrackerEFCore\EmployeesTrackerEF\bin\Debug\netcoreapp2.0\EmployeeTrackerService.pdb
